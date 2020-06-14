@@ -1,3 +1,4 @@
+"COVID19",
 This is an example GitHub App that adds a label to all new issues opened in a repository. You can follow the "[Using the GitHub API in your app](https://developer.github.com/apps/quickstart-guides/using-the-github-api-in-your-app/)" quickstart guide on developer.github.com to learn how to build the app code in `server.rb`.
 
 This project listens for webhook events and uses the Octokit.rb library to make REST API calls. This example project consists of two different servers:
